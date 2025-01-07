@@ -1,6 +1,6 @@
 # Olá! Eu sou Vinicius Silva
 
-Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor Back-End com paixão por tecnologia e inovação.
+Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor Back-End.
 
 ## 🚀 Sobre mim
 - 🎓 **Engenheiro Eletrônico em formação pela UFS**
